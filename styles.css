@@ -1,0 +1,132 @@
+.body1{
+    background-image: url(images/room.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+   
+    width: 100%;
+    height: 500px;
+    
+
+}
+.nav1 ul li{
+display: inline-block;
+justify-content: left;
+list-style-type: none;
+padding: 5px;
+}
+.words2{
+    text-align: center;
+    color: #ffffff;
+    font-weight: bold;
+}
+#button3{
+background-color: #ffac7d;
+}
+#home{
+    color: #ffac7d;
+}
+#kitchen{
+    width: 30%
+    
+}
+#ceiling{
+    width: 28%;
+
+    
+    
+}
+#staircase{
+    width: 25%;
+    
+}
+
+.words{
+    margin-left: 20px;
+    
+}
+.images{
+    display: flex;
+}
+#button2{
+    background-color: #ecc4ac;
+    
+    border-radius: 10px;
+}
+
+
+
+#button3{
+    background-color: #ecc4ac;
+    border-radius: 10px;
+    
+}
+#p1{
+    width: 17%;
+    padding: 10px;
+}
+#p2{
+    width: 20%;
+    padding: 10px;
+}
+#p3{
+    width: 14%;
+    
+}
+.image2{
+    background-color: #002d3d;
+    border-style: solid;
+    height: 350px;
+}
+#pop{
+    color: #ffac7d;
+}
+#line1{
+    text-decoration: underline;
+}
+#line2{
+    text-decoration: underline;
+}
+#line3{
+    text-decoration: underline;
+}
+.div2{
+    border-radius: 50%;
+    width: 550px;
+    border-style: hidden;
+    background-color: #ecc4ac;
+
+}
+.div2 p{
+    text-align: center;
+    font-weight: lighter;
+}
+#phrase5{
+    text-align: center;
+}
+.div3{
+    border-style: hidden;
+    background-color: #ffe5d6;
+    display: flex;
+    padding: 50px;
+    height: 500px;
+    
+}
+#image5{
+height: 400px;
+margin-left: 7%;
+}
+.div4{
+background-color: #ffffff;
+border-style: solid;
+height: 200px;
+}
+.div5{
+    background-color: #002d3d;
+    border-style: solid;
+    display: flex;
+  
+}
+.div5 ul li{
+    list-style-type: none;
+    padding: 10px;
+}
