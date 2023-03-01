@@ -58,7 +58,7 @@ padding-left: 6px;
 }
 .words2{
     text-align: center;
-    color: #181010;
+    color: #020629;
     font-weight: bold;
 }
 #button3{
@@ -70,6 +70,8 @@ background-color: #ffac7d;
 #kitchen{
     width: 28%;
     padding: 50px;
+    
+
   
 }
 #ceiling{
@@ -82,7 +84,9 @@ background-color: #ffac7d;
     padding: 50px; 
 }
 #explore{
-    padding-left: 50px;
+    padding-left: 25px;
+    position: relative;
+    bottom: 18px;
 
 }
 .titles ul li{
@@ -90,21 +94,21 @@ list-style-type: none;
 
 }
 
-
-
-    
-
 #mod{
     background-color: #ffac7d;
     padding: 5px;
-    
     border-radius: 5px;
     width: 5px ;
-    margin-left: 4%;
+    margin-left: 5%;
+    position: relative;
+    left: 100px;
+    
     
 }
 #sic{
     padding: 400px;
+    position: relative;
+    left: 50px;
 }
 #sca{
 margin-right: 2%;
@@ -122,6 +126,8 @@ padding-left: 7px;
 }
 .images{
     display: flex;
+    position: relative;
+    bottom: 45px;
     
     
     
@@ -141,6 +147,8 @@ padding-left: 7px;
 }
 #button31{
     padding-left: 500px;
+    position: relative;
+    bottom: 125px;
     
 }
 #p1{
@@ -167,7 +175,10 @@ padding-left: 7px;
     height: 550px;
 
 }
-
+#button39{
+    padding-left: 500px;
+    align-content: center;
+}
 #pop{
     color: #ffac7d;
     font-weight: bolder;
